@@ -1,0 +1,36 @@
+{
+  "name": "@rimbb/holidates",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "Holidates": "./index.js"
+  },
+  "files": [
+    "*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rimbb/myfirstnode"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rimbb/myfirstnode/issues"
+  },
+  "homepage": "https://github.com/Rimbb/myfirstnode#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "chalk": "^2.4.2",
+    "clear": "^0.1.0",
+    "country-list": "^2.2.0",
+    "email-validator": "^2.0.4",
+    "figlet": "^1.2.3",
+    "inquirer": "^7.0.0",
+    "prompts": "^2.2.1",
+    "reload": "^3.0.1"
+  }
+}
