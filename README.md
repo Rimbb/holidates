@@ -1,6 +1,4 @@
-# Holidates
-
-## Welcome on Holidates, my very first node.JS project !
+## Welcome on Holidates; my very first node.JS project !
 
 It's an easy to use npm package which allows you to get a public holidays list of a **given country** for a **given year**.
 
