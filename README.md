@@ -5,6 +5,6 @@ It's an easy to use npm package which allows you to get a public holidays list o
 npx command :
 **$ npx @rimbb/holidates**
 
-### Have fun :)
+Have fun !
 
 [Rimbaud](https://github.com/rimbb)
